@@ -25,6 +25,12 @@ ViewModel은 buttononClick()함수를 만들어 onClick을 실행 시켜줍니�
 
 ![image](https://user-images.githubusercontent.com/48902047/148552929-d5b00e88-58ab-4809-9be0-b20a073e41cf.png)
 
+또한 format은 아래와 같이 할 수 있습니다.
+
+![image](https://user-images.githubusercontent.com/48902047/148565178-92b808fd-92e3-48f6-bd0e-2843c17bfccc.png)
+
+![image](https://user-images.githubusercontent.com/48902047/148565295-d4daa973-c1c1-45a3-88d3-51ffb3bf3e5f.png)
+
 ## 2. LiveData + DataBinding
 activity_main.xml을 보면 Recyclerview안에 @{viewModel.userList}로 연결합니다.
 
