@@ -5,6 +5,8 @@
 3. RecyclerView + DataBinding
 4. DI(Koin) + DataBinding
 5. DataBindingAdapter
+6. Tow -way Binding
+7. Context 에 대한 의존이 필요한 경우에 어떻게 처리해야 하나?
 
 ![image](https://user-images.githubusercontent.com/48902047/148549776-2a7e3b73-5d17-4756-b27f-2ca500eec6d1.png)
 
