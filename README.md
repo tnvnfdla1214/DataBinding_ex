@@ -8,7 +8,7 @@
 4. DI(Koin) + DataBinding
 5. DataBindingAdapter
 6. Tow -way Binding(추가 예정)
-7. Context 에 대한 의존이 필요한 경우에 어떻게 처리해야 하나?
+7. [Context 에 대한 의존이 필요한 경우에 어떻게 처리해야 하나?](https://medium.com/androiddevelopers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150) : 이 지침은 [공식 지침](https://developer.android.com/jetpack/guide/ui-layer/events) 을 위해 더 이상 사용되지 않습니다
 
 ![image](https://user-images.githubusercontent.com/48902047/148549776-2a7e3b73-5d17-4756-b27f-2ca500eec6d1.png)
 
