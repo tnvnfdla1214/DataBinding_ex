@@ -1,11 +1,13 @@
 ## 소개
-먼저 이번 프로젝트는 데이터 바인딩 예시 프로젝트를 기술 하였습니다. (Tow -way Binding은 추가 예정)
+먼저 이번 프로젝트는 데이터 바인딩 예시 프로젝트를 기술 하였습니다.
+
+## 목차(해당 링크들은 더욱 이해를 하기 쉽게 따로 포스팅을 한 것 입니다.)
 1. DataBinding 기본(Activity + ViewModel)
-2. LiveData + DataBinding
-3. RecyclerView + DataBinding
+2. [LiveData + DataBinding](https://github.com/tnvnfdla1214/DataBinding_2)
+3. [RecyclerView + DataBinding](https://github.com/tnvnfdla1214/DataBinding_3)
 4. DI(Koin) + DataBinding
 5. DataBindingAdapter
-6. Tow -way Binding
+6. Tow -way Binding(추가 예정)
 7. Context 에 대한 의존이 필요한 경우에 어떻게 처리해야 하나?
 
 ![image](https://user-images.githubusercontent.com/48902047/148549776-2a7e3b73-5d17-4756-b27f-2ca500eec6d1.png)
